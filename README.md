@@ -2,7 +2,7 @@
 Exercício prático IAAS (computação em nuvem) - EX2CN1
 
 ## Descrição
-Aplicação para gerenciar um lista de compras, útil para mostrar a comunição entre dois servidores (banco de dados e aplicação)
+A aplicação gerencia uma lista de compras, útil para mostrar a comunicação entre dois servidores (banco de dados e aplicação), críterios estabelecidos para a atividade acima!
 
 ## Pré-requisitos
 - **Nodejs**
