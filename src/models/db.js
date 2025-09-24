@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 mongoose.Promise = global.Promise;
 
-const url = "mongodb://192.168.1.4/compras";
+const url = "mongodb://20.63.13.38/compras";
 mongoose.connect(url).then(() => {
     console.log("MongoDB Conectado..");
 }).catch((err) => {
