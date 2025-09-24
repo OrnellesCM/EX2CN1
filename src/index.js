@@ -11,7 +11,7 @@ app.engine('handlebars', handlebars.engine({ defaultLayout: 'main' }));
 app.set('view engine', 'handlebars');
 
 app.use('/', rota_compras);
-const PORT = 80;
+const PORT = 8080;
 
 app.listen(PORT, () => {
     console.log("Servidor rodando");
